@@ -1,0 +1,23 @@
+# Build directories
+cmake-build-debug/
+cmake-build-release/
+build/
+out/
+
+# IDE - CLion / JetBrains
+.idea/
+
+# Compiled binaries
+*.o
+*.a
+*.out
+*.exe
+*.dll
+*.so
+
+# CMake generated
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+compile_commands.json

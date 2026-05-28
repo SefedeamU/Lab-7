@@ -1,0 +1,8 @@
+fun void main():
+    var int operando;
+    operando = 0;
+    if operando == 0 then
+        print(1)
+    endif;
+    return 0
+endfun

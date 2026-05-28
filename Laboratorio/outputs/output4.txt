@@ -1,0 +1,20 @@
+=== STDOUT ===
+Parseo exitoso
+Codigo:
+fun void main():
+var int edad
+edad = 17
+if edad <= 17 then
+print(0)
+else
+edad++
+print(1)
+endif
+return 0
+endfun
+
+Interprete:
+0
+
+
+=== STDERR ===

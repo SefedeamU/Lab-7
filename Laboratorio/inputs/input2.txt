@@ -1,0 +1,12 @@
+fun int sumar(int a, int b):
+    var int total;
+    total = a + b;
+    return total
+endfun
+
+fun void main():
+    var int res;
+    res = sumar(10, 20);
+    print(res);
+    return 0
+endfun

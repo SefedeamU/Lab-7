@@ -1,0 +1,18 @@
+=== STDOUT ===
+Parseo exitoso
+Codigo:
+var int x, y
+fun void main():
+var int resultado
+x = 5
+y = 10
+resultado = x + y
+print(resultado)
+return 0
+endfun
+
+Interprete:
+15
+
+
+=== STDERR ===
